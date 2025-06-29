@@ -3,7 +3,7 @@
 I'm a Computer Science student and entrepreneur at Cornell University, where I focus on full-stack development, artificial intelligence, and chip design. I enjoy building end-to-end systems that combine deep technical innovation with practical impact — from LLM-powered tools to real-world product validation.
 
 - 🧠 **AI & LLMs**: I’ve led the development of Retrieval-Augmented Generation (RAG) systems and autonomous agents, and created an LLM-powered assistant for hardware design tasks, including Verilog code generation and debugging.
-- 🚀 **Startup Engineering**: At [Jarvis In Your Pocket](https://jiyp.health), I work across engineering, product, and user research. I’ve helped validate product directions by meeting with healthcare professionals and built features to support rapid iteration.
+- 🚀 **Startup Engineering**: At Jarvis In Your Pocket, I work across engineering, product, and user research. I’ve helped validate product directions by meeting with healthcare professionals and built features to support rapid iteration.
 - 🛠 **Hardware & Verification**: At Cornell Custom Silicon Systems, I contribute to formal and simulation-based RTL verification for custom chips. I’ve verified modules like an SPI minion, FFT, and LBIST and also conducted simulation testing on bird calls.
 - 📚 **Projects**: 
   - **BookTracky** – a full-stack book tracking and review platform built with React/TypeScript and PostgreSQL.
