@@ -8,7 +8,7 @@ I'm a Computer Science student and entrepreneur at Cornell University, where I f
 - 📚 **Projects**: 
   - **BookTracky** – a full-stack book tracking and review platform built with React/TypeScript and PostgreSQL.
   - **Statistical Arbitrage Tool** – a Python tool for sports betting that compares hard and soft markets using de-vigorished odds and Kelly criterion sizing.
-  - **OCaml Transformer** – a functional implementation of a transformer model trained on English text and Cornell social media posts.
+  - **OCaml Transformer** – a functional programming implementation of a transformer model trained on English text and Cornell social media posts.
 
 🔬 I was awarded a Summer 2024 Engineering Learning Initiatives grant for research under Zhiru Zhang, and our team placed **9th** in the **ICCAD Contest on LLM-Assisted Hardware Design**.
 
