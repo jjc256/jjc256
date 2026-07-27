@@ -6,7 +6,7 @@ I'm a Computer Science student at Cornell University. I enjoy building end-to-en
 - 🚀 **Startup Engineering**: At Jarvis In Your Pocket, I work across engineering, product, and user research. I’ve helped validate product directions by meeting with healthcare professionals and built features to support rapid iteration.
 - 🛠 **Hardware & Verification**: At Cornell Custom Silicon Systems, I contribute to formal and simulation-based RTL verification for custom chips. I’ve verified modules like an SPI minion, FFT, and LBIST and also conducted simulation testing on bird calls.
 - 📚 **Projects**: 
-  - **Compiler**: Built in Java to compile Eta (similar to C) to x86 assembly
+  - **Compiler**: Built in Java to compile Eta (similar to C) to x86 assembly.
   - **AI Hedge Fund**: Built hedge fund with specialized AI agents.
 
 🔬 I was awarded a Summer 2024 Engineering Learning Initiatives grant for research under Zhiru Zhang, and our team placed **9th** in the **ICCAD Contest on LLM-Assisted Hardware Design**.
