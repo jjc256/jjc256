@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Jiming (JJ) Chen
 
-I'm a Computer Science student and entrepreneur at Cornell University, where I focus on full-stack development, artificial intelligence, and chip design. I enjoy building end-to-end systems that combine deep technical innovation with practical impact — from LLM-powered tools to real-world product validation.
+I'm a Computer Science student at Cornell University. I enjoy building end-to-end systems that combine deep technical innovation with practical impact — from LLM-powered tools to real-world product validation.
 
-- 🧠 **AI & LLMs**: I’ve led the development of Retrieval-Augmented Generation (RAG) systems and autonomous agents, and created an LLM-powered assistant for hardware design tasks, including Verilog code generation and debugging.
+- 🧠 **AI & LLMs**: I’ve led the development of Retrieval-Augmented Generation (RAG) systems and autonomous agents, and created an LLM-powered assistants for hardware design to hedge funds.
 - 🚀 **Startup Engineering**: At Jarvis In Your Pocket, I work across engineering, product, and user research. I’ve helped validate product directions by meeting with healthcare professionals and built features to support rapid iteration.
 - 🛠 **Hardware & Verification**: At Cornell Custom Silicon Systems, I contribute to formal and simulation-based RTL verification for custom chips. I’ve verified modules like an SPI minion, FFT, and LBIST and also conducted simulation testing on bird calls.
 - 📚 **Projects**: 
-  - **BookTracky** – a full-stack book tracking and review platform built with React/TypeScript and PostgreSQL.
-  - **Statistical Arbitrage Tool** – a Python tool for sports betting that compares hard and soft markets using de-vigorished odds and Kelly criterion sizing.
-  - **OCaml Transformer** – a functional programming implementation of a transformer model trained on English text and Cornell social media posts.
+  - **Compiler**: Built in Java to compile Eta (similar to C) to x86 assembly
+  - **AI Hedge Fund**: Built hedge fund with specialized AI agents.
 
 🔬 I was awarded a Summer 2024 Engineering Learning Initiatives grant for research under Zhiru Zhang, and our team placed **9th** in the **ICCAD Contest on LLM-Assisted Hardware Design**.
 
